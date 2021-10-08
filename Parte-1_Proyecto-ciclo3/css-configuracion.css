@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(195, 233, 252);
+}
+
+.Título_Principal {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+    vertical-align: top;
+}
+
+.ID_Ciudadano_Ingresar {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+
+.seleccionar_ciudad {
+    color: rgb(172, 161, 161);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+
+.Nombre-Tipo_ID {
+    color: rgb(172, 161, 161);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+
+.Apellidos-EAPB_Responsable {
+    color: rgb(172, 161, 161);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+
+.Fecha_nacimiento-Edad {
+    color: rgb(172, 161, 161);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+
+hr {
+    width: 55%;
+}
+
+.subtítulo_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+
+.nombre_vacuna-esquema_vacuna {
+    text-align: center;
+    color: rgb(172, 161, 161);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+}
+
+.Buttons {
+    text-align: center;
+}
+
+.B1 {
+    width: 115px;
+    height: 55px;
+}
+
+.B2 {
+    width: 115px;
+    height: 55px;
+}
+
+.B3 {
+    width: 115px;
+    height: 55px;
+}
+
+/*
+.recomendaciones {
+    width: 300px;
+    height: 170px;
+}
+
+.DC {
+    width: 300px;
+    height: 170px;
+}
+
+.botones_izquierda {
+    vertical-align: middle;
+}
+*/
+
+.Recomendaciones-Datos_Ciudadano {
+    vertical-align: -20px;
+    width: 400px;
+    height: 500px;
+}
