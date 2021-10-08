@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(195, 233, 252);
+    margin-left: 150px;
+    margin-right: 150px
+}
+
+.Título_Principal {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    white-space: nowrap;
+    vertical-align: top;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    vertical-align: top;
+    font-size: medium;
+}   
+
+table, th, td {
+    border:1px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.columna1 {
+    background-color: rgb(92, 100, 218);
+    text-align: center;
+}
